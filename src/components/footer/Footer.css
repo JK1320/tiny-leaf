@@ -1,0 +1,25 @@
+.footer {
+    background-color: var(--color-sage);
+    min-height: 30vh;
+}
+
+.logo-contact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-logo {
+    max-width: 5%;
+    padding-top: 2rem;
+}
+
+.footer-logo img {
+    background-position: center;
+    background-position: cover;
+}
+
+th,
+td {
+    padding: 10px;
+}
