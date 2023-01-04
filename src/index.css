@@ -1,1 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+:root {
+--color-white: #ffffff;
+--color-sage: #86907d;
+--color-black: #0f0f0f;
+--color-grey-dark: #525252;
+--color-grey-medium: #e0e0e0;
+--color-library-green: #5a684c;
+--color-biscuit: #f0d989;
+
+--hero-font: 88px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}

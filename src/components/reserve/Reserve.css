@@ -1,0 +1,13 @@
+.reserve-main {
+    padding: 4rem 0;
+}
+
+.reserve-main img {
+    max-width: 100%;
+    background-size: cover;
+    background-position: right;
+    position: relative;
+}
+
+
+ 
