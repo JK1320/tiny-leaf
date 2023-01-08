@@ -48,11 +48,12 @@ const Home = () => {
             contemplate.
           </p>
         </div>
-        <img className="image-one" src={image3} alt="" />
-        <img className="image-two" src={image4} alt="tea cup" />
-        {/* <section></section>
-<section></section>
-<section></section> */}
+        <div className="wise-img1">
+          <img className="image-one" src={image3} alt="" />
+        </div>
+        <div className="wise-img2">
+          <img className="image-two" src={image4} alt="tea cup" />
+        </div>
       </div>
       <Reserve
         img={image5}
