@@ -8,7 +8,7 @@ import logoText from "../../images/logo-text.png";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <section>
+      <section className='nav-logo'>
         <img src={logo} alt="logo" />
         <img src={logoText} alt="logo-text" />
       </section>
